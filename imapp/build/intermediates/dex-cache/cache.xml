@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/2a62c4588db898395e25d6638d862cb03226e6a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_227e3faadeaa6c609b032a61186eb6caee09a7d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/2292e714763086ab20252113a6603cdbf8bff903/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c05763b493e7afe80a9da5a4d99d952236536abd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Alipay-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="436a2c5270cc10b2c47eaa36f0eb18e79550532e">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Alipay-2.8.2_37c5c1e7c41a93f17ef66bac866c7015ee04a7b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/22727e83c589c57e886f12dda1f77a700643216f/output/jars/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e2ec9a1a288c4a652f0611e2c2c31ab0f9df8fb">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.5_2aca6633ca1017af261971f45bbb641bb8dda710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/16df7a1414fb6d8ed499d414a89a8e5d63e87318/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_972357ddcf953982923188db2574dc6db60cfad3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/58350f87d343651cb36f03b33e76fd002c9b4176/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_838fb0cb4618223c393f9bda3e654b02ef280eaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/Rong_IMLib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="020fb7ece0df1f4df0f359114bea119dd0aa71d5">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/Rong_IMLib_cf1449a15f9c59ea0d5eb544123c5ef2c0e00b43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Wechat-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3f9d8cdaf36e449309698b6d3ec46fd47e4e14c">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-2.8.2_be8ef5ee31dd11577fabcd01d0868b1f92ca2b52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/6400920a990aa1ee63897bc2ffaee84672f5236e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85dc74234e21cd36640e8c1a1643636c4d797dd7">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_237971e3657455c65959f2e7ed2723c57b842c16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/2713570f8bdd4ee739f8d9c52def91f0bfab0dcb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc8e3e3b486160c2382f499319b1c70adbf32575">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26e12f543d23e0b38a07075dc99d1a33acf6f2ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Core-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="521f72e4ce63c721c5d3006bfa4fa712dd51bea9">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Core-2.8.2_2bf9d05da358d1362a3119c1bcd583b72261a476/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/c9b67948e82b1165a43ed8c91a54969ce5ab6f14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="567eb88aebc66bd2d9928ba72adb5bb0285c7cf0">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aab4017607b4aefa647f82963b62bdca5587de92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/af90f55f6b14a4dcda2b206b6f9f8df376a7c0a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2257bf275698dcacd9d07b6af1d6cfdf874bfc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_f3dc09be849623a0c8c1f44c338d4476d00f35b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-ShortMessage-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e19bf208ba05ecd52d4301461b6570b26ab3dcb1">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-ShortMessage-2.8.2_397bae6332c46d137d6838a6251083ced858bf3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/34e44ca55aff3e5117264a81de7ec05c675543d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d759f1346cfbee9ee5d0e94eaa0856e01d67ed9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/TencentMapSDK_Raster_v_1.2.7_51ae0e7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd015da6004ed72abf1936d7a33b6bccc00ef866">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/TencentMapSDK_Raster_v_1.2.7_51ae0e7_19875ca68b9685f3bc4395def2f919a53bf1895c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/TencentLocationSDK_v4.9.7.12_r247861_161205_1104.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94f448b2cf8726ea2a1f2226c899855c070a8ba5">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/TencentLocationSDK_v4.9.7.12_r247861_161205_1104_c4357192cd75b1870a5c8322a64ecf57b12eb25f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/581ce711c59506b80a9b79ba6375b616282ce5ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="113bc9ba82c6c3b679b612ede97e8d844b58e692">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04cde493c328636600fe4503afa5ba0686742ae0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/9da450203dd6d9a9751f40f401eb07106231b8d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772452261af8eb9c1df9ae71fb621afe393277da">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8ba44a425bc65fa753a29bff10089a351795759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_a2ff0f735aca5ad1b1e089df5cc03ad6471310b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Wechat-Core-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="002b4be4096d7ce75e969449fc81b62e312748a6">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Core-2.8.2_fd1dfe1ae2ed23c404182feeb8d8a70f17761d02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.qiniu/happy-dns/0.2.7/d94b7987386a3aabbb5aa0be21589f72931f0489/happy-dns-0.2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d94b7987386a3aabbb5aa0be21589f72931f0489">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/happy-dns-0.2.7_e591a47686d0340e7288de119c262d17af82dfd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_30051f8e91572f15e7d21fc76d7a88905646f5c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/8bf8d8764aab002254cc6760d3aab9ee30c188e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f8b272b57d04a75fd5e1e0b7e8e657a50b7137b">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e2a2464c3be9e75933422492bb75debac287782/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Facebook-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb4a741c1bce3db23e592b939933cf9872bc20b">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Facebook-2.8.2_c9f38f1f93bb913f3420eff4c3d1ffc5bbbce12b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/1eea5fd858eb04a0f46082408697a3da64586923/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_592ced7d6b26400438d7ef1c8292218d612b55f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/61b3b34fca3b1645663e546c929a300b8fe85931/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b20b4db3efb97b16c813140839594e575d80166">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fec5b67d9ee38dc103e29a9f724fce998d910960/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/33ec41d93f48b2ce1017aa950b13a74f689366ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd36be87274f74905f465f9f5e6e4fa3d79edc4">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b677cc36520cff0dd9af486e4795836510089888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b5ba33f8018141db7ac2b65692586488087d5b56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/TencentSearch1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="195c1468964b5b9491a2d279469e8e52438e85c0">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/TencentSearch1.1.3_891321301483f2300ecfc070cfefddfea1c10b7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/19807ba7b7dc55cfbbc02e660ae0f5ad43b00660/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e57fe155cea810fb2ba5fe9ffabcb197ecf81d1">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d891ad86dfe6c5a03a6996744f73d8886d4013f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Email-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6af2c732a480ae98d94b3413e8a49daca39c11f4">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Email-2.8.2_dad09fd91c747d94a0316b6a440d5a932881ee35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc9277097f381183c2f2e6ef2b5b2f20117c2f05">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_13d85fb657ad007d177ecbc62f7863a99f90d3af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/2c4658b2f517b3ab085bc0eda3b4b898676b4405/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f47c65b3dac794277a24922e6986ab0c85f0f418/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.qiniu/qiniu-android-sdk/7.3.3/ce507a5826e9d737bad0842fd4a78053c2371343/qiniu-android-sdk-7.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce507a5826e9d737bad0842fd4a78053c2371343">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/qiniu-android-sdk-7.3.3_c449a58c635fced9a8691e31561d636028a06918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_ab030b38d1cd96c377afc2c42704ba84d289ff67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Alipay-Core-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06bd4cf516c4809b57eb40ae74a8a29e1d6ffcaf">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Alipay-Core-2.8.2_5eb32c85617784f561d57e319acd1156ba397028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Twitter-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6b3827ab45de1b3b7df380c2ba95e53e3d5228">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Twitter-2.8.2_9198d94f25f035ec6855bb5231065f6f8b1f4ba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.3.0/dd84903d2e1af25a6081ef9038ad863cb14ca3a0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_c7a18c3a91cf29e9eb9f99ae2af0a11121f2b691/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/pinyin4j-2.5.0_15d27fbabb874e8c84950b2b094d3e25d46095c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/ebed7739a69d808f9dca12b8387753fe3beaa597/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="634ccf52c8b58a9eafd4a574b38d165e8648a574">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62fbd01777565bab3a80dc59a9a99fd1c368a630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/1ddc40842058ed751bbf1212075b14c0639ff3ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34859058d4a3d6825bd3f3352fbae9391bc5d16e">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_429a95833fb6d6d19a9a46e125387a7bfe38c356/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/eab3159b235b763e4eab364b7d2e868e827f3d13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8718be9491bf14e701e7c88bf6f4e30e5eb594e5">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_90053a9ad61d0b59327a7c577eb36bb0af1fdeae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/9a1a1d8284dfe3cc269b9cd0513b8fecb9eb30bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_157872e1b81ffb933545b836fe57a8d522cba957/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/MobCommons-2017.0322.0931.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d49d36ec407502d69c217d81a87283eba9c746b2">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons-2017.0322.0931_ce6c45bee6da99c5fec27129b8340666e5da393b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/MobTools-2017.0322.0931.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="242b3a8f9b6b47d2ea8cf932cd978a5b6651d22a">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools-2017.0322.0931_99c77d9f29dd116409d69ae23c1ec7a8b3371481/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/fd7a298bce4fa2d8dc65850e51f548d818a2652f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e53517cd5071ca1e42548f05322ad87461098b58">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dac25a6857d062ab2316efb600b8bdec210e044/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_2997059734473ec53cc39ed0cce381f619d80421/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-TencentWeibo-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30b58e68a37b15c6159ebe6983e58e84743e1e3f">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-TencentWeibo-2.8.2_03e5e420a9ef89338cac8a8bd5b97707a33a8c33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/369191e7bfe53e190de7f65d344db94965b0143a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac38cec2b75fc0f3b46f37c477dbeceb4afc7af">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_356650e7da5a63f51ee28e789cd3d5d093e308a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/67ef9be1bd0bac790601821bb8683699ea189bc9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06c31a10ab1fcbdeacf23f691d6bc5710101c214/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.29/2878958d7631337dcfe3bb4e541aa34478367e66/fastjson-1.2.29.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2878958d7631337dcfe3bb4e541aa34478367e66">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.2.29_fa302028a661e2641aa468557d0fb50fe0aebd60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/86107cba67f242bafa99d892c4d0e460f52ad6c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c6e253efe436e42d001b5b7dd0e12fda5aaba95">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3ac23c3145b38fa67c191fbcf2bf6e0834bec5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/b46bcaae28b7fb618f63826fff51870092f73e3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b69b69f0f434b79d767329fcf1ca6ba1540c509">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d7d4e58b5ee24d5187a12e81642c5b6b783ec8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/9f47a2b12fda0ce894a4dc1416f52551c80a4050/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13e229942f4c8860175ea9c537359a7e51ccbf7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/429b9f54868389868f9b2bc0480668b6a60f0128/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3008375aec4b2e0f6dc616a7b59430e791062322/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/07e5ca78a6170d5f899b25d55453c38cc83bc05b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f577701fa1e05f14bde07bfbd522ced08fe1f7a0">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7daf03451656b5d142cc3d659c1f5cd0ae382ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/24ba68da7731988f12ff1fa71d845ebf1adc104e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7b88ba3cfac47c220a2d2f09622b5412039d5d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/22727e83c589c57e886f12dda1f77a700643216f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3210d27e22712d25363719194822e349ba8d6c79">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_823c2d176ccde7f40bddcfdb9f23ba10795ccb5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/fa1ab97faf64453e90fd08cb78f156a4e879d2de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71f9aa96fdb2a8f1b95576f85643c4a31623c92b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/alipaySdk-20161129.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9356473ed942faa70a18f34883af52681e1c7223">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipaySdk-20161129_2eaa679e48c18c515023098574ce518a99f7796a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/74a9ffc0b7d435600c4437de9a8c06b914f6ff00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5079e5fd491e9cda6597074c383db035e25e4696">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a95f4c1dd13ea1358a0aa91608e764d287bb5d71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-QZone-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc2c7e7eaa2bad4c5333b6471d388a64df781d1b">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QZone-2.8.2_5db27b3adf4a090a36b046a4222c3399985167e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-SinaWeibo-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e8408628154b6e153c46dc0217cfa4b6ed0694b9">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-SinaWeibo-2.8.2_b69b5a37ad1e483c2dbf5dd2bee591c27e1519f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.12.0/3742beff8024d0a0073d284b7c5e4cbf73d99b25/okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.12.0_69004379dd6dae80ccdf4a0a9046ee60c2edfe39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Alipay-Moments-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87066c53ca2eb2dacb3089c0cd7e69e868d62245">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Alipay-Moments-2.8.2_21bd0b99e3396a9ef5c3fb1be912967f009b729b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Wechat-Favorite-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1af0c437d793e4f8689be564e02b8c2dec50488a">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Favorite-2.8.2_9fcf282b86171487557fc52035c1a0b717ebdd9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/4bfac7bddefe6d48d1b5860815aafc80d149affd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72358b83aad8eb9aec00a7e18a6a7ed4405775d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/76b0bcf999b214fe3b85e2b62c5afd80e3266db2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b5f4aac6273a9fea0360fecf8226865a8184680/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.1_ab7b86f58d9066a22c3e4b8e60a807de917927f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/volley-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley-1.0.19_88ea0dec48e9ce3306a0bfbee3fe34386d1f8e06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/joda-time-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c73038a3688525aad5cf33409df483178290cd64">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/joda-time-2.5_88d30d76b61da1f774eeb9ec980e8b7ea136b62c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-Wechat-Moments-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b40dd5cc7381571d1cc57e03fcf328598d559c4">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Moments-2.8.2_f65fe42904ed13403a6421986e0092491909225c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/3081002d7d35f4f8a7db265df88e48c064b4eaf9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb1d1adf217e56495abcbaf6865ee1093a504491/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_d13f75dafe8913f7670728ed2972c7f91a66b257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/3f35db0ebe811b64534b47649c931f7c893f06ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afaa48d175c5669a8035adc84911c5f713b8e4cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.2/5e227e2d794cf680dd34fb04dd564ce58d6c764d/baseLibrary-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e227e2d794cf680dd34fb04dd564ce58d6c764d">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.2_049886e9b03c33f70f956043fe3ca85f4d1d50ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_184b0f01a647d1044dba874c79b916fd5d411967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/1313c9d1859125fe43f8c1909545dda12028bdd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5d8f9a26d2f25b5f683003be1afe05f47db844d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_39926a9818e49a21be0d0ba38a6ff591897e4d78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_77adde277981aa962e4b636786674d17256b1cd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.android/build-cache/e76048e1085c645f0aa677a23cd81df7e421d6c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c0ae7c6df0b7d5818660d559d93101f1bbde8c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xiaxia/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_c0a7523cc3be1755b9954992268cb6ccd2814a9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/data/GitRepository/LQRWeChat/app/libs/ShareSDK-QQ-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb64a7456b98849ee2868a55aa0b3bb3f6e6a29">
+        <dex dex="/usr/data/GitRepository/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QQ-2.8.2_0cba901240f12bffda2c4438c77b977954c2dfd6/classes.dex" />
+    </item>
+
+</items>
